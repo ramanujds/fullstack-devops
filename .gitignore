@@ -1,0 +1,17 @@
+/.idea/
+*.iml
+/out/
+/build/
+/.gradle/
+/local.properties
+.DS_Store
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.exe
+*.dll
+*.so
